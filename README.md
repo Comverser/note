@@ -10,5 +10,5 @@ docker system df
 
 # bash
 ```
-scp -r A user@192.168.0.10:B
+scp -r source user@192.168.0.10:target
 ```
