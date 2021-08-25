@@ -10,5 +10,5 @@ docker system df
 
 # bash
 ```
-scp -r A B
+scp -r A user@192.168.0.10:B
 ```
